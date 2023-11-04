@@ -80,4 +80,4 @@ I acknowledge and thank him for his contribution in building this project.
 
 ## Copyright
 
-Copyright (c) 2020 Tasos Mourtopallas. See [LICENSE](https://github.com/ktseng/holdem_calc/blob/master/LICENSE) for details.
+Copyright (c) 2020 Tasos Mourtopallas. See [LICENSE](https://github.com/tmourtos/holdem_odds_calculator/blob/master/LISCENSE) for details.
